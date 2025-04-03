@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Harsh Raj!
+# 👋 Hey there, I'm Harsh Raj! 👻
 
 💻 **Aspiring AI/ML Engineer | Robotics Enthusiast | Tech Explorer** 🚀<br>
 Passionate about building intelligent systems, exploring cutting-edge AI technologies, and solving real-world problems with Machine Learning and the Internet of Things!<br><br>
