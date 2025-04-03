@@ -26,18 +26,19 @@ Passionate about building intelligent systems, exploring cutting-edge AI technol
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Harsh1724&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Harsh1724&theme=react&hide_border=true&include_all_commits=false&count_private=false"/>
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Harsh1724&theme=react&hide_border=false"/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Harsh1724&theme=react&hide_border=true"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh1724&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh1724&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
     </td>
   </tr>
 </table>
+
 
 
 ## 🏆 GitHub Trophies:
