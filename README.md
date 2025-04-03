@@ -29,7 +29,7 @@ Passionate about building intelligent systems, exploring cutting-edge AI technol
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Harsh1724&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote:
+### ✍️ Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo:
