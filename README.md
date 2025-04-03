@@ -24,7 +24,7 @@ Passionate about building intelligent systems, exploring cutting-edge AI technol
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Harsh1724&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Harsh1724&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh1724&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh1724&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <center>
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Harsh1724&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
