@@ -7,7 +7,7 @@ Passionate about building intelligent systems, exploring cutting-edge AI technol
 - 🎓 **B.Tech student in Artificial Intelligence and Machine Learning**
 - 🤖 **Coordinator of my college's Robotics Club**
 - 🔬 Love working on **AI, ML, and IoT-based projects**
-- 📊 Currently developing a **Stock Price Prediction Model**
+- 📊 Currently developing a **kinship verification model**
 - 🌱 Always eager to **learn, explore, and innovate** in the tech world
 - 💡 **Fun Fact:** When I’m not coding, you’ll find me **sketching, cooking 🍔, or exploring the latest tech trends!**
 
