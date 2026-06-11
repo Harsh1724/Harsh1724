@@ -39,16 +39,8 @@ Passionate about building intelligent systems, exploring cutting-edge AI technol
   </tr>
 </table>
 
-
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Harsh1724&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
-
-
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Harsh1724&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Harsh1724&icon=10&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
